@@ -2,6 +2,6 @@
 
 In this repository I will upload samples of my code made with Python.
 
-Current projects:
+Current folders:
 
- - **NYCTaxiFare_KaggleChallenge**: My take at Kaggle Taxi Fare Prediction challenge 
+ - **TensorFlow**: All my projects using TensorFlow
